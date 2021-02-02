@@ -1,0 +1,8 @@
+datetime
+matplotlib
+multiprocessing
+numdifftools
+numpy
+pandas
+scipy
+statsmodels
